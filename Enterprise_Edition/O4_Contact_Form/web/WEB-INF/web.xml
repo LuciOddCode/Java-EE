@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+<!--    <servlet>-->
+<!--        <servlet-name>contact</servlet-name>-->
+<!--        <servlet-class>lk.ijse.contact.api.control.CustomerContactServlet</servlet-class>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>contact</servlet-name>-->
+<!--        <url-pattern>/contact_form</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+</web-app>

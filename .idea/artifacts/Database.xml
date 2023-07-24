@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Database">
+    <output-path>$PROJECT_DIR$/out/artifacts/Database</output-path>
+    <root id="archive" name="Database.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="O6_POS_APP" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.49" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="O6_POS_APP/web/Web" />
+    </root>
+  </artifact>
+</component>

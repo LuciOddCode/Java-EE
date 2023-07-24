@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-EE.iml" filepath="$PROJECT_DIR$/.idea/Java-EE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O2_Hello_JavaEE/O2_Hello_JavaEE.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O2_Hello_JavaEE/O2_Hello_JavaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O3_App/O3_App.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O3_App/O3_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O4_Contact_Form/O4_Contact_Form.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O4_Contact_Form/O4_Contact_Form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O6_POS_APP/O6_POS_APP.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O6_POS_APP/O6_POS_APP.iml" />
+    </modules>
+  </component>
+</project>
