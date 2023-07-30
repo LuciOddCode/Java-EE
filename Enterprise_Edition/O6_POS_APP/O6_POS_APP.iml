@@ -19,7 +19,7 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.5.90" level="application_server_libraries" />
-    <orderEntry type="library" name="mysql-connector-java-5.1.49" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 8.5.90" level="application_server_libraries" />
+    <orderEntry type="library" exported="" name="mysql-connector-java-5.1.49" level="project" />
   </component>
 </module>

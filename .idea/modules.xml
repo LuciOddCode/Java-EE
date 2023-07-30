@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O3_App/O3_App.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O3_App/O3_App.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O4_Contact_Form/O4_Contact_Form.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O4_Contact_Form/O4_Contact_Form.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O6_POS_APP/O6_POS_APP.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O6_POS_APP/O6_POS_APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise_Edition/O7_JSP/O7_JSP.iml" filepath="$PROJECT_DIR$/Enterprise_Edition/O7_JSP/O7_JSP.iml" />
     </modules>
   </component>
 </project>
